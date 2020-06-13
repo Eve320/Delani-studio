@@ -1,0 +1,30 @@
+.section1{
+  background-image: url("backgrounds/h_img.jpg");
+  background-repeat: no-repeat;
+  background-size:contain;
+
+  }
+
+
+  .logo{
+  	background: transparent;
+  	font-weight: bold;
+    text-align: center;
+    color: white;
+    font-family: 'Oxygen', sans-serif;
+
+
+  }
+
+  .logo h2{
+    font-size:40px;
+  }
+
+  .logo p{
+    font-size:12px;
+  }
+
+.section2{
+  background-color: white;
+  text-align: center;
+}
