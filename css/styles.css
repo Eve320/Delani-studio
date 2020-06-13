@@ -30,11 +30,18 @@
 .section2{
   background-color: white;
   text-align: center;
+  font-weight: bold;
+  margin-top:inherit;
+  margin-bottom: inherit;
+  height: 250px;
 }
+
+
 
 .section3{
   background-image: url("backgrounds/s_image.jpg");
   background-repeat: no-repeat;
+  background-size:contain;
 
 }
 
@@ -42,4 +49,5 @@
   background: transparent;
   text-align: center;
   color: white;
+  font-weight: bold;
 }
