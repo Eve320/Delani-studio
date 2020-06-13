@@ -1,3 +1,7 @@
+.body{
+      font-family: 'Oxygen', sans-serif;
+}
+
 .section1{
   background-image: url("backgrounds/h_img.jpg");
   background-repeat: no-repeat;
@@ -11,7 +15,6 @@
   	font-weight: bold;
     text-align: center;
     color: white;
-    font-family: 'Oxygen', sans-serif;
 
 
   }
@@ -27,4 +30,16 @@
 .section2{
   background-color: white;
   text-align: center;
+}
+
+.section3{
+  background-image: url("backgrounds/s_image.jpg");
+  background-repeat: no-repeat;
+
+}
+
+.services{
+  background: transparent;
+  text-align: center;
+  color: white;
 }
