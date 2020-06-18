@@ -60,14 +60,32 @@
   text-align: center;
 }
 
-.portfolio{
+#portfolio{
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  margin-left:18%;
-  margin-right: 16%;
+  margin-left:10%;
+  margin-right: 8%;
 }
+
 .col-md-3 img{
   max-width: 100%;
   max-height: 100%;
+}
+
+.row1{
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+
+.row{
+  margin-top: 30px;
+  margin-bottom: 30px
+}
+
+.section6{
+  background-image: url("backgrounds/c_image.jpg");
+  background-repeat: no-repeat;
+  background-size:cover;
+
 }
