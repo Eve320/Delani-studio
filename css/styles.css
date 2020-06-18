@@ -87,5 +87,19 @@
   background-image: url("backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-size:cover;
+  text-align: center;
+  background-position: center center;
+  color: white;
+
+}
+
+input[type=text],input[type=email],#message{
+  background: transparent;
+  color: white;
+  font-size: 20px;
+
+}
+.footer{
+  text-align: center;
 
 }
