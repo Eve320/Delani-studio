@@ -1,3 +1,5 @@
+
+
 .body{
       font-family: 'Oxygen', sans-serif;
 }
@@ -54,6 +56,12 @@
 
 .section4{
   text-align: center;
+
+
+}
+
+.hidetext{
+  display: none;
 }
 
 .section5{
