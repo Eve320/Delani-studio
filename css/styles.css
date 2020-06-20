@@ -87,18 +87,40 @@
   background-image: url("backgrounds/c_image.jpg");
   background-repeat: no-repeat;
   background-size:cover;
-  text-align: center;
-  background-position: center center;
-  color: white;
-
+  background-position: cover;
+  margin-top: 50px;
 }
 
-input[type=text],input[type=email],#message{
-  background: transparent;
-  color: white;
-  font-size: 20px;
+.form-cont input {
+    width: 49%;
+    background: transparent;
+    color: white;
+}
+.form-cont textarea {
+    margin-top: 10px;
+    width: 100%;
+    background: transparent;
+    color: white;
+}
+.form-cont {
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
 
 }
+::placeholder{
+    font-size: 10px;
+    color: white;
+}
+.section6 h3{
+    color: white;
+}
+
+
+
 .footer{
   text-align: center;
 
