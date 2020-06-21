@@ -1,7 +1,7 @@
 # DELANI STUDIO
 https://eve320.github.io/Delani-studio/
 
-
+![Screenshot](img/screenshot.png)
 
 ## Description
 This project is a landing page for delani studios showing their services, portfolio and includes a form that allows users to give feedback to delani studios and also subscribe to their mailing list.
