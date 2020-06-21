@@ -21,5 +21,9 @@ $(document).ready(function(){
     var message= $("#message").val();
     alert(' Hi ' + name + ', we have received your message. Thank you for contacting us. We will get in touch soon.');
 
-  })
+
+    $("form#contForm")[0].reset();
+  });
+
+
 });
