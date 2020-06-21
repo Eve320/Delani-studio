@@ -1,7 +1,7 @@
 $(document).ready(function(){
 
   $(".items").click(function(){
-    $(this).children(".hidetext").slideUp();
-    $(this).children(".shown").toggle(1200);
+    $(this).children(".describe").slideToggle(1000);
+    $(this).children(".picture").toggle(1200);
   });
 });
