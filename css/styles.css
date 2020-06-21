@@ -74,27 +74,33 @@
   align-items: center;
   margin-left:10%;
   margin-right: 8%;
+  position: relative;
 }
 
 
 .projectName{
   display:none;
   position: absolute;
-  top:40%;
-
-
+  top:0;
+  padding-right: 20px;
+  padding-top:60px;
+  background-color:rgba(255, 255, 255, 0.456);
   text-align: center;
   width: 100%;
   height: 100%;
   font-weight: bold;
   text-transform: uppercase;
-  font-size: 120%;
+  font-size: 20px;
+  overflow: hidden;
+
+
 
 }
 
 .col-md-3 img{
-  max-width: 100%;
-  max-height: 100%;
+  width: 100%;
+ height: 100%;
+
 }
 
 .row1{
